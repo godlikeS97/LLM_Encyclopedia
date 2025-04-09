@@ -15,7 +15,8 @@ BART is a denoising autoencoder for pretraining sequence-to-sequence models. It 
 ## Resources
 
 ### Presentation Video
-[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.youtube.com/watch?v=FZh9gKXmguM)
+
+[BART Explained! Model Architecture and Code Demo!](https://www.youtube.com/watch?v=FZh9gKXmguM)
 
 ## Demo Notebook
 
@@ -35,6 +36,6 @@ The demo uses pre-trained BART models from Hugging Face's Transformers library t
 - Particularly effective for text generation and comprehension tasks
 - Can be fine-tuned for various downstream NLP tasks
 
-## Papers
+## Original Papers
 
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (Lewis et al., 2019)
